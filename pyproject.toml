@@ -1,0 +1,5 @@
+[project]
+name = "codex-python-starter"
+version = "0.1.0"
+description = "A minimal Python starter repository for onboarding"
+requires-python = ">=3.10"
